@@ -50,7 +50,7 @@ ip.addr == 192.168.x.x
 
 ### 📸 Screenshot
 
-![HTTP Form Sniffing Screenshot](screenshots/http_form_sniff.png)
+![HTTP Form Sniffing Screenshot](screenshots/sniffed_html.png)
 
 > This screenshot displays intercepted form data — including name, email, delivery notes — all in plaintext, revealing how insecure HTTP can be exploited on open networks.
 
